@@ -1,2 +1,2 @@
-# StaticWebPage
-a minimal web page
+### Features
+- Cool 😎👍
